@@ -15,4 +15,4 @@ TODO app is completed and is build on Aurelia Framework
   ```shell
   gulp watch
   ```
-7. Browse to [http://localhost:9000](http://localhost:9000) to see the app. 
+
