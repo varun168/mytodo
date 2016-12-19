@@ -1,7 +1,5 @@
-# Sentry
-Sentry is an Aurelia template that solves a few common authentication issues. It has a special login app shell for creating an authentication app that keeps your main app secure, and an authentication manager class for tracking the state of a logged in user across the application, from session to session.
-
-Sentry is free. If you've successfully used it and it has saved you an hour of your life, consider [leaving me a tip](https://cash.me/$davismj) so I can continue building templates. 
+# varun's TODO APP
+TODO app is completed and is build on Aurelia Framework
 
 ## Running The App
 
